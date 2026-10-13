@@ -6,27 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 68 | 75 |
-| Medium | 49 | 54 |
+| Easy | 75 | 75 |
+| Medium | 54 | 54 |
 | Hard | 3 | 3 |
-| **Total** | **120** | **132** |
+| **Total** | **132** | **132** |
 
-120 problem(s), 120 solution file(s) in this repository.
+132 problem(s), 132 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-13).
-> 12 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 108 |
-| Python | 12 |
+| Python3 | 118 |
+| Python | 14 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (68)</summary>
+<details><summary><b>Easy</b> (75)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -96,12 +95,19 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/) | Python3 | [folder](Easy/3210-find-the-encrypted-string/) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Python3 | [folder](Easy/3345-smallest-divisible-digit-product-i/) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Python3 | [folder](Easy/3471-find-the-largest-almost-missing-integer/) |
+| 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Python | [folder](Easy/3536-maximum-product-of-two-digits/) |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Python3 | [folder](Easy/3622-check-divisibility-by-digit-sum-and-product/) |
+| 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Python3 | [folder](Easy/3658-gcd-of-odd-and-even-sums/) |
+| 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Python3 | [folder](Easy/3718-smallest-missing-multiple-of-k/) |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Python3 | [folder](Easy/3731-find-missing-elements/) |
+| 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Python3 | [folder](Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) |
+| 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | Python3 | [folder](Easy/3838-weighted-word-mapping/) |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | Python3 | [folder](Easy/3856-trim-trailing-vowels/) |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Python3 | [folder](Easy/3875-construct-uniform-parity-array-i/) |
 
 </details>
 
-<details><summary><b>Medium</b> (49)</summary>
+<details><summary><b>Medium</b> (54)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -154,6 +160,11 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Python3 | [folder](Medium/3499-maximize-active-section-with-trade-i/) |
 | 3513 | [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Python3 | [folder](Medium/3513-number-of-unique-xor-triplets-i/) |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Python3 | [folder](Medium/3517-smallest-palindromic-rearrangement-i/) |
+| 3532 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | Python3 | [folder](Medium/3532-path-existence-queries-in-a-graph-i/) |
+| 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | Python | [folder](Medium/3612-process-string-with-special-operations-i/) |
+| 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Python3 | [folder](Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) |
+| 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | Python3 | [folder](Medium/3737-count-subarrays-with-majority-element-i/) |
+| 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Python3 | [folder](Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) |
 
 </details>
 
