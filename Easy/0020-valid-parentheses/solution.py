@@ -1,0 +1,12 @@
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack=[]
+        matching={")":"(","]":"[","}":"{"}
+        for char in s:
+            if char in matching:
+                top=stack.pop() if len(stack)> 0 else '-'
+                if matching[char] != top:
+                    return False
+            else:
+                stack.append(char)
+        return len(stack)==0
