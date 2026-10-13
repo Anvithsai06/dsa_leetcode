@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (57)
+## Array (63)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -60,9 +60,15 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3471 [Find the Largest Almost Missing Integer](Easy/3471-find-the-largest-almost-missing-integer/) - Easy
 - #3513 [Number of Unique XOR Triplets I](Medium/3513-number-of-unique-xor-triplets-i/) - Medium
+- #3532 [Path Existence Queries in a Graph I](Medium/3532-path-existence-queries-in-a-graph-i/) - Medium
+- #3702 [Longest Subsequence With Non-Zero Bitwise XOR](Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) - Medium
+- #3718 [Smallest Missing Multiple of K](Easy/3718-smallest-missing-multiple-of-k/) - Easy
+- #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+- #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## Math (45)
+## Math (50)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -108,9 +114,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3014 [Minimum Number of Pushes to Type Word I](Easy/3014-minimum-number-of-pushes-to-type-word-i/) - Easy
 - #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
 - #3513 [Number of Unique XOR Triplets I](Medium/3513-number-of-unique-xor-triplets-i/) - Medium
+- #3536 [Maximum Product of Two Digits](Easy/3536-maximum-product-of-two-digits/) - Easy
+- #3622 [Check Divisibility by Digit Sum and Product](Easy/3622-check-divisibility-by-digit-sum-and-product/) - Easy
+- #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
+- #3754 [Concatenate Non-Zero Digits and Multiply by Sum I](Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) - Easy
+- #3756 [Concatenate Non-Zero Digits and Multiply by Sum II](Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## String (40)
+## String (43)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -151,9 +162,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3210 [Find the Encrypted String](Easy/3210-find-the-encrypted-string/) - Easy
 - #3499 [Maximize Active Section with Trade I](Medium/3499-maximize-active-section-with-trade-i/) - Medium
 - #3517 [Smallest Palindromic Rearrangement I](Medium/3517-smallest-palindromic-rearrangement-i/) - Medium
+- #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
+- #3756 [Concatenate Non-Zero Digits and Multiply by Sum II](Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) - Medium
+- #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Hash Table (20)
+## Hash Table (24)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
@@ -175,8 +189,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
 - #3090 [Maximum Length Substring With Two Occurrences](Easy/3090-maximum-length-substring-with-two-occurrences/) - Easy
 - #3471 [Find the Largest Almost Missing Integer](Easy/3471-find-the-largest-almost-missing-integer/) - Easy
+- #3532 [Path Existence Queries in a Graph I](Medium/3532-path-existence-queries-in-a-graph-i/) - Medium
+- #3718 [Smallest Missing Multiple of K](Easy/3718-smallest-missing-multiple-of-k/) - Easy
+- #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
-## Sorting (19)
+## Sorting (21)
 
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
@@ -197,6 +215,8 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
 - #3517 [Smallest Palindromic Rearrangement I](Medium/3517-smallest-palindromic-rearrangement-i/) - Medium
+- #3536 [Maximum Product of Two Digits](Easy/3536-maximum-product-of-two-digits/) - Easy
+- #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
 ## Two Pointers (14)
 
@@ -215,7 +235,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #905 [Sort Array By Parity](Easy/0905-sort-array-by-parity/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
-## Bit Manipulation (11)
+## Bit Manipulation (12)
 
 - #29 [Divide Two Integers](Medium/0029-divide-two-integers/) - Medium
 - #89 [Gray Code](Medium/0089-gray-code/) - Medium
@@ -228,6 +248,21 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #779 [K-th Symbol in Grammar](Medium/0779-k-th-symbol-in-grammar/) - Medium
 - #1342 [Number of Steps to Reduce a Number to Zero](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) - Easy
 - #3513 [Number of Unique XOR Triplets I](Medium/3513-number-of-unique-xor-triplets-i/) - Medium
+- #3702 [Longest Subsequence With Non-Zero Bitwise XOR](Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) - Medium
+
+## Binary Search (11)
+
+- #33 [Search in Rotated Sorted Array](Medium/0033-search-in-rotated-sorted-array/) - Medium
+- #34 [Find First and Last Position of Element in Sorted Array](Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) - Medium
+- #35 [Search Insert Position](Easy/0035-search-insert-position/) - Easy
+- #69 [Sqrt(x)](Easy/0069-sqrtx/) - Easy
+- #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
+- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
+- #268 [Missing Number](Easy/0268-missing-number/) - Easy
+- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
+- #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
+- #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
+- #3532 [Path Existence Queries in a Graph I](Medium/3532-path-existence-queries-in-a-graph-i/) - Medium
 
 ## Dynamic Programming (11)
 
@@ -257,18 +292,26 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 - #779 [K-th Symbol in Grammar](Medium/0779-k-th-symbol-in-grammar/) - Medium
 
-## Binary Search (10)
+## Simulation (8)
 
-- #33 [Search in Rotated Sorted Array](Medium/0033-search-in-rotated-sorted-array/) - Medium
-- #34 [Find First and Last Position of Element in Sorted Array](Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) - Medium
-- #35 [Search Insert Position](Easy/0035-search-insert-position/) - Easy
-- #69 [Sqrt(x)](Easy/0069-sqrtx/) - Easy
-- #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
-- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
-- #268 [Missing Number](Easy/0268-missing-number/) - Easy
-- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
-- #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
-- #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
+- #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #412 [Fizz Buzz](Easy/0412-fizz-buzz/) - Easy
+- #415 [Add Strings](Easy/0415-add-strings/) - Easy
+- #867 [Transpose Matrix](Easy/0867-transpose-matrix/) - Easy
+- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
+- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+- #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
+- #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
+
+## Counting (7)
+
+- #169 [Majority Element](Easy/0169-majority-element/) - Easy
+- #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
+- #1189 [Maximum Number of Balloons](Easy/1189-maximum-number-of-balloons/) - Easy
+- #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
+- #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
+- #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
 ## Greedy (7)
 
@@ -300,15 +343,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 
-## Counting (6)
-
-- #169 [Majority Element](Easy/0169-majority-element/) - Easy
-- #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
-- #1189 [Maximum Number of Balloons](Easy/1189-maximum-number-of-balloons/) - Easy
-- #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
-- #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
-- #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
-
 ## Game Theory (6)
 
 - #292 [Nim Game](Easy/0292-nim-game/) - Easy
@@ -318,14 +352,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
 
-## Simulation (6)
+## Prefix Sum (6)
 
-- #258 [Add Digits](Easy/0258-add-digits/) - Easy
-- #412 [Fizz Buzz](Easy/0412-fizz-buzz/) - Easy
-- #415 [Add Strings](Easy/0415-add-strings/) - Easy
-- #867 [Transpose Matrix](Easy/0867-transpose-matrix/) - Easy
-- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
-- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
+- #238 [Product of Array Except Self](Medium/0238-product-of-array-except-self/) - Medium
+- #1480 [Running Sum of 1d Array](Easy/1480-running-sum-of-1d-array/) - Easy
+- #1732 [Find the Highest Altitude](Easy/1732-find-the-highest-altitude/) - Easy
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+- #3756 [Concatenate Non-Zero Digits and Multiply by Sum II](Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) - Medium
 
 ## Minimax (5)
 
@@ -334,6 +368,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #877 [Stone Game](Medium/0877-stone-game/) - Medium
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
+
+## Divide and Conquer (4)
+
+- #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
+- #169 [Majority Element](Easy/0169-majority-element/) - Easy
+- #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
 ## Heap (Priority Queue) (4)
 
@@ -349,13 +390,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #867 [Transpose Matrix](Easy/0867-transpose-matrix/) - Easy
 
-## Prefix Sum (4)
-
-- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
-- #238 [Product of Array Except Self](Medium/0238-product-of-array-except-self/) - Medium
-- #1480 [Running Sum of 1d Array](Easy/1480-running-sum-of-1d-array/) - Easy
-- #1732 [Find the Highest Altitude](Easy/1732-find-the-highest-altitude/) - Easy
-
 ## Zero-Sum Game (4)
 
 - #486 [Predict the Winner](Medium/0486-predict-the-winner/) - Medium
@@ -363,17 +397,17 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
 
-## Divide and Conquer (3)
-
-- #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
-- #169 [Majority Element](Easy/0169-majority-element/) - Easy
-- #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
-
 ## Enumeration (3)
 
 - #1291 [Sequential Digits](Medium/1291-sequential-digits/) - Medium
 - #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
 - #3499 [Maximize Active Section with Trade I](Medium/3499-maximize-active-section-with-trade-i/) - Medium
+
+## Number Theory (3)
+
+- #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
+- #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
 
 ## Queue (3)
 
@@ -426,11 +460,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #292 [Nim Game](Easy/0292-nim-game/) - Easy
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
 
-## Number Theory (2)
-
-- #258 [Add Digits](Easy/0258-add-digits/) - Easy
-- #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
-
 ## Pigeonhole Principle (2)
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
@@ -469,6 +498,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 
+## Graph Theory (1)
+
+- #3532 [Path Existence Queries in a Graph I](Medium/3532-path-existence-queries-in-a-graph-i/) - Medium
+
 ## Greatest Common Divisor (1)
 
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
@@ -480,6 +513,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Manacher (1)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
+
+## Merge Sort (1)
+
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
 ## Monotonic Queue (1)
 
@@ -505,9 +542,17 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 
+## Segment Tree (1)
+
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+
 ## Trie (1)
 
 - #14 [Longest Common Prefix](Easy/0014-longest-common-prefix/) - Easy
+
+## Union-Find (1)
+
+- #3532 [Path Existence Queries in a Graph I](Medium/3532-path-existence-queries-in-a-graph-i/) - Medium
 
 ## Z Algorithm (1)
 
