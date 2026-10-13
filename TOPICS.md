@@ -110,7 +110,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3513 [Number of Unique XOR Triplets I](Medium/3513-number-of-unique-xor-triplets-i/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## String (39)
+## String (40)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -150,6 +150,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3090 [Maximum Length Substring With Two Occurrences](Easy/3090-maximum-length-substring-with-two-occurrences/) - Easy
 - #3210 [Find the Encrypted String](Easy/3210-find-the-encrypted-string/) - Easy
 - #3499 [Maximize Active Section with Trade I](Medium/3499-maximize-active-section-with-trade-i/) - Medium
+- #3517 [Smallest Palindromic Rearrangement I](Medium/3517-smallest-palindromic-rearrangement-i/) - Medium
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
 ## Hash Table (20)
@@ -175,7 +176,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3090 [Maximum Length Substring With Two Occurrences](Easy/3090-maximum-length-substring-with-two-occurrences/) - Easy
 - #3471 [Find the Largest Almost Missing Integer](Easy/3471-find-the-largest-almost-missing-integer/) - Easy
 
-## Sorting (18)
+## Sorting (19)
 
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
@@ -195,6 +196,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
+- #3517 [Smallest Palindromic Rearrangement I](Medium/3517-smallest-palindromic-rearrangement-i/) - Medium
 
 ## Two Pointers (14)
 
@@ -389,6 +391,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
 
+## Counting Sort (2)
+
+- #1051 [Height Checker](Easy/1051-height-checker/) - Easy
+- #3517 [Smallest Palindromic Rearrangement I](Medium/3517-smallest-palindromic-rearrangement-i/) - Medium
+
 ## Design (2)
 
 - #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
@@ -453,10 +460,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Bucket Sort (1)
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
-
-## Counting Sort (1)
-
-- #1051 [Height Checker](Easy/1051-height-checker/) - Easy
 
 ## Euclidean Algorithm (1)
 
