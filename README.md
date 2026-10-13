@@ -7,19 +7,19 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 68 | 75 |
-| Medium | 48 | 54 |
+| Medium | 49 | 54 |
 | Hard | 3 | 3 |
-| **Total** | **119** | **132** |
+| **Total** | **120** | **132** |
 
-119 problem(s), 119 solution file(s) in this repository.
+120 problem(s), 120 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-13).
-> 13 solved problem(s) are not in this repository yet.
+> 12 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 107 |
+| Python3 | 108 |
 | Python | 12 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -101,7 +101,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (48)</summary>
+<details><summary><b>Medium</b> (49)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -153,6 +153,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Python3 | [folder](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) |
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Python3 | [folder](Medium/3499-maximize-active-section-with-trade-i/) |
 | 3513 | [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Python3 | [folder](Medium/3513-number-of-unique-xor-triplets-i/) |
+| 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | Python3 | [folder](Medium/3517-smallest-palindromic-rearrangement-i/) |
 
 </details>
 
