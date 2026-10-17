@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 77 | 77 |
+| Easy | 78 | 78 |
 | Medium | 55 | 55 |
 | Hard | 3 | 3 |
-| **Total** | **135** | **135** |
+| **Total** | **136** | **136** |
 
-135 problem(s), 135 solution file(s) in this repository.
+136 problem(s), 136 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-17).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 121 |
+| Python3 | 122 |
 | Python | 14 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (77)</summary>
+<details><summary><b>Easy</b> (78)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -44,6 +44,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Python3 | [folder](Easy/0121-best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Python3 | [folder](Easy/0125-valid-palindrome/) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Python3 | [folder](Easy/0136-single-number/) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Python3 | [folder](Easy/0141-linked-list-cycle/) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Python3 | [folder](Easy/0169-majority-element/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Python3 | [folder](Easy/0217-contains-duplicate/) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Python | [folder](Easy/0231-power-of-two/) |
