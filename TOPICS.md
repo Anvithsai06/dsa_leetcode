@@ -167,13 +167,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Hash Table (24)
+## Hash Table (25)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #12 [Integer to Roman](Medium/0012-integer-to-roman/) - Medium
 - #36 [Valid Sudoku](Medium/0036-valid-sudoku/) - Medium
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
 - #166 [Fraction to Recurring Decimal](Medium/0166-fraction-to-recurring-decimal/) - Medium
 - #169 [Majority Element](Easy/0169-majority-element/) - Easy
 - #217 [Contains Duplicate](Easy/0217-contains-duplicate/) - Easy
@@ -218,7 +219,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3536 [Maximum Product of Two Digits](Easy/3536-maximum-product-of-two-digits/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Two Pointers (16)
+## Two Pointers (17)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -226,6 +227,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
 - #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
 - #151 [Reverse Words in a String](Medium/0151-reverse-words-in-a-string/) - Medium
 - #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
 - #283 [Move Zeroes](Easy/0283-move-zeroes/) - Easy
@@ -354,6 +356,15 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
 
+## Linked List (6)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
+
 ## Prefix Sum (6)
 
 - #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
@@ -362,14 +373,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1732 [Find the Highest Altitude](Easy/1732-find-the-highest-altitude/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #3756 [Concatenate Non-Zero Digits and Multiply by Sum II](Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) - Medium
-
-## Linked List (5)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
-- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
-- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
-- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
 ## Minimax (5)
 
@@ -445,6 +448,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
 - #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
 
+## Floyd's Cycle Finding Algorithm (2)
+
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
+
 ## Impartial Game (2)
 
 - #292 [Nim Game](Easy/0292-nim-game/) - Easy
@@ -498,10 +506,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Euclidean Algorithm (1)
 
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
-
-## Floyd's Cycle Finding Algorithm (1)
-
-- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 
 ## Graph Theory (1)
 
