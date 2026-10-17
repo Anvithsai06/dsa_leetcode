@@ -403,6 +403,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
 - #3499 [Maximize Active Section with Trade I](Medium/3499-maximize-active-section-with-trade-i/) - Medium
 
+## Linked List (3)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
+- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+
 ## Number Theory (3)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
@@ -439,11 +445,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #292 [Nim Game](Easy/0292-nim-game/) - Easy
 - #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
-
-## Linked List (2)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
 
 ## Memoization (2)
 
