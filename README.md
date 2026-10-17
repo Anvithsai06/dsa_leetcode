@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 76 | 76 |
-| Medium | 54 | 54 |
+| Medium | 55 | 55 |
 | Hard | 3 | 3 |
-| **Total** | **133** | **133** |
+| **Total** | **134** | **134** |
 
-133 problem(s), 133 solution file(s) in this repository.
+134 problem(s), 134 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-17).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 119 |
+| Python3 | 120 |
 | Python | 14 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -108,7 +108,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (54)</summary>
+<details><summary><b>Medium</b> (55)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -156,6 +156,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Python3 | [folder](Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Python3 | [folder](Medium/1846-maximum-element-after-decreasing-and-rearranging/) |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | Python3 | [folder](Medium/2029-stone-game-ix/) |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Python3 | [folder](Medium/2095-delete-the-middle-node-of-a-linked-list/) |
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | Python3 | [folder](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Python3 | [folder](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) |
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Python3 | [folder](Medium/3499-maximize-active-section-with-trade-i/) |
