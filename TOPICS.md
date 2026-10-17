@@ -2,9 +2,10 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (63)
+## Array (64)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
+- #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
 - #14 [Longest Common Prefix](Easy/0014-longest-common-prefix/) - Easy
 - #27 [Remove Element](Easy/0027-remove-element/) - Easy
@@ -239,6 +240,21 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
+## Binary Search (12)
+
+- #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
+- #33 [Search in Rotated Sorted Array](Medium/0033-search-in-rotated-sorted-array/) - Medium
+- #34 [Find First and Last Position of Element in Sorted Array](Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) - Medium
+- #35 [Search Insert Position](Easy/0035-search-insert-position/) - Easy
+- #69 [Sqrt(x)](Easy/0069-sqrtx/) - Easy
+- #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
+- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
+- #268 [Missing Number](Easy/0268-missing-number/) - Easy
+- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
+- #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
+- #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
+- #3532 [Path Existence Queries in a Graph I](Medium/3532-path-existence-queries-in-a-graph-i/) - Medium
+
 ## Bit Manipulation (12)
 
 - #29 [Divide Two Integers](Medium/0029-divide-two-integers/) - Medium
@@ -253,20 +269,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1342 [Number of Steps to Reduce a Number to Zero](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) - Easy
 - #3513 [Number of Unique XOR Triplets I](Medium/3513-number-of-unique-xor-triplets-i/) - Medium
 - #3702 [Longest Subsequence With Non-Zero Bitwise XOR](Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) - Medium
-
-## Binary Search (11)
-
-- #33 [Search in Rotated Sorted Array](Medium/0033-search-in-rotated-sorted-array/) - Medium
-- #34 [Find First and Last Position of Element in Sorted Array](Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) - Medium
-- #35 [Search Insert Position](Easy/0035-search-insert-position/) - Easy
-- #69 [Sqrt(x)](Easy/0069-sqrtx/) - Easy
-- #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
-- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
-- #268 [Missing Number](Easy/0268-missing-number/) - Easy
-- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
-- #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
-- #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
-- #3532 [Path Existence Queries in a Graph I](Medium/3532-path-existence-queries-in-a-graph-i/) - Medium
 
 ## Dynamic Programming (11)
 
@@ -374,6 +376,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #3756 [Concatenate Non-Zero Digits and Multiply by Sum II](Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) - Medium
 
+## Divide and Conquer (5)
+
+- #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
+- #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
+- #169 [Majority Element](Easy/0169-majority-element/) - Easy
+- #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+
 ## Minimax (5)
 
 - #292 [Nim Game](Easy/0292-nim-game/) - Easy
@@ -381,13 +391,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #877 [Stone Game](Medium/0877-stone-game/) - Medium
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
-
-## Divide and Conquer (4)
-
-- #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
-- #169 [Majority Element](Easy/0169-majority-element/) - Easy
-- #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
-- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
 ## Heap (Priority Queue) (4)
 
