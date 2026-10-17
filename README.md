@@ -8,17 +8,17 @@
 |------------|-----------------:|--------------------:|
 | Easy | 78 | 78 |
 | Medium | 55 | 55 |
-| Hard | 3 | 3 |
-| **Total** | **136** | **136** |
+| Hard | 4 | 4 |
+| **Total** | **137** | **137** |
 
-136 problem(s), 136 solution file(s) in this repository.
+137 problem(s), 137 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-17).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 122 |
+| Python3 | 123 |
 | Python | 14 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -172,10 +172,11 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Hard (3)
+### Hard (4)
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Python3 | [folder](Hard/0004-median-of-two-sorted-arrays/) |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Python3 | [folder](Hard/0060-permutation-sequence/) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Python3 | [folder](Hard/0224-basic-calculator/) |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Python3 | [folder](Hard/1406-stone-game-iii/) |
