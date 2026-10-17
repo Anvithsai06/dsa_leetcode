@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 76 | 76 |
+| Easy | 77 | 77 |
 | Medium | 55 | 55 |
 | Hard | 3 | 3 |
-| **Total** | **134** | **134** |
+| **Total** | **135** | **135** |
 
-134 problem(s), 134 solution file(s) in this repository.
+135 problem(s), 135 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-17).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 120 |
+| Python3 | 121 |
 | Python | 14 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (76)</summary>
+<details><summary><b>Easy</b> (77)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -67,6 +67,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Python3 | [folder](Easy/0643-maximum-average-subarray-i/) |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Python3 | [folder](Easy/0796-rotate-string/) |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Python3 | [folder](Easy/0867-transpose-matrix/) |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Python3 | [folder](Easy/0876-middle-of-the-linked-list/) |
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Python3 | [folder](Easy/0896-monotonic-array/) |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Python3 | [folder](Easy/0905-sort-array-by-parity/) |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | Python3 | [folder](Easy/1025-divisor-game/) |
