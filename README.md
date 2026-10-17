@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 75 | 75 |
+| Easy | 76 | 76 |
 | Medium | 54 | 54 |
 | Hard | 3 | 3 |
-| **Total** | **132** | **132** |
+| **Total** | **133** | **133** |
 
-132 problem(s), 132 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-13).
+133 problem(s), 133 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-17).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 118 |
+| Python3 | 119 |
 | Python | 14 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (75)</summary>
+<details><summary><b>Easy</b> (76)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -40,6 +40,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Python3 | [folder](Easy/0066-plus-one/) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Python3 | [folder](Easy/0069-sqrtx/) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Python | [folder](Easy/0070-climbing-stairs/) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Python3 | [folder](Easy/0083-remove-duplicates-from-sorted-list/) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Python3 | [folder](Easy/0121-best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Python3 | [folder](Easy/0125-valid-palindrome/) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Python3 | [folder](Easy/0136-single-number/) |
