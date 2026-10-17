@@ -218,7 +218,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3536 [Maximum Product of Two Digits](Easy/3536-maximum-product-of-two-digits/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Two Pointers (14)
+## Two Pointers (15)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -233,6 +233,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #344 [Reverse String](Easy/0344-reverse-string/) - Easy
 - #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
 - #905 [Sort Array By Parity](Easy/0905-sort-array-by-parity/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
 ## Bit Manipulation (12)
@@ -383,6 +384,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1438 [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 
+## Linked List (4)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
+- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
+
 ## Matrix (4)
 
 - #36 [Valid Sudoku](Medium/0036-valid-sudoku/) - Medium
@@ -402,12 +410,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1291 [Sequential Digits](Medium/1291-sequential-digits/) - Medium
 - #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
 - #3499 [Maximize Active Section with Trade I](Medium/3499-maximize-active-section-with-trade-i/) - Medium
-
-## Linked List (3)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
-- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
 
 ## Number Theory (3)
 
