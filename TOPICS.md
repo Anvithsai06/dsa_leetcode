@@ -123,7 +123,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3756 [Concatenate Non-Zero Digits and Multiply by Sum II](Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## String (44)
+## String (45)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -154,6 +154,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1189 [Maximum Number of Balloons](Easy/1189-maximum-number-of-balloons/) - Easy
 - #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
 - #1456 [Maximum Number of Vowels in a Substring of Given Length](Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) - Medium
+- #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 - #1935 [Maximum Number of Words You Can Type](Easy/1935-maximum-number-of-words-you-can-type/) - Easy
 - #1967 [Number of Strings That Appear as Substrings in Word](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) - Easy
@@ -300,6 +301,19 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 - #779 [K-th Symbol in Grammar](Medium/0779-k-th-symbol-in-grammar/) - Medium
 
+## Stack (10)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
+- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
+- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
+- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
+- #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
+- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
+
 ## Simulation (9)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
@@ -311,18 +325,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
-
-## Stack (9)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
-- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
-- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
-- #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
-- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
-- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
 ## Counting (7)
 
