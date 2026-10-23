@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 80 | 80 |
+| Easy | 81 | 81 |
 | Medium | 55 | 55 |
 | Hard | 4 | 4 |
-| **Total** | **139** | **139** |
+| **Total** | **140** | **140** |
 
-139 problem(s), 139 solution file(s) in this repository.
+140 problem(s), 140 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-23).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 125 |
+| Python3 | 126 |
 | Python | 14 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (80)</summary>
+<details><summary><b>Easy</b> (81)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -81,6 +81,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Python3 | [folder](Easy/1464-maximum-product-of-two-elements-in-an-array/) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Python3 | [folder](Easy/1470-shuffle-the-array/) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Python3 | [folder](Easy/1480-running-sum-of-1d-array/) |
+| 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Python3 | [folder](Easy/1544-make-the-string-great/) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Python3 | [folder](Easy/1614-maximum-nesting-depth-of-the-parentheses/) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Python3 | [folder](Easy/1732-find-the-highest-altitude/) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Python3 | [folder](Easy/1929-concatenation-of-array/) |
