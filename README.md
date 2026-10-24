@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 81 | 81 |
+| Easy | 82 | 82 |
 | Medium | 57 | 57 |
 | Hard | 4 | 4 |
-| **Total** | **142** | **142** |
+| **Total** | **143** | **143** |
 
-142 problem(s), 142 solution file(s) in this repository.
+143 problem(s), 143 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 128 |
+| Python3 | 129 |
 | Python | 14 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (81)</summary>
+<details><summary><b>Easy</b> (82)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -80,6 +80,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Python3 | [folder](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Python3 | [folder](Easy/1464-maximum-product-of-two-elements-in-an-array/) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Python3 | [folder](Easy/1470-shuffle-the-array/) |
+| 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Python3 | [folder](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Python3 | [folder](Easy/1480-running-sum-of-1d-array/) |
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Python3 | [folder](Easy/1544-make-the-string-great/) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Python3 | [folder](Easy/1614-maximum-nesting-depth-of-the-parentheses/) |
