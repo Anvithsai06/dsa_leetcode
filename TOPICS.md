@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (66)
+## Array (67)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -49,6 +49,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 - #1470 [Shuffle the Array](Easy/1470-shuffle-the-array/) - Easy
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 - #1480 [Running Sum of 1d Array](Easy/1480-running-sum-of-1d-array/) - Easy
 - #1732 [Find the Highest Altitude](Easy/1732-find-the-highest-altitude/) - Easy
 - #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
@@ -245,6 +246,22 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
+## Stack (13)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
+- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
+- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
+- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
+- #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
+- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
+
 ## Binary Search (12)
 
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -274,21 +291,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1342 [Number of Steps to Reduce a Number to Zero](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) - Easy
 - #3513 [Number of Unique XOR Triplets I](Medium/3513-number-of-unique-xor-triplets-i/) - Medium
 - #3702 [Longest Subsequence With Non-Zero Bitwise XOR](Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) - Medium
-
-## Stack (12)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
-- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
-- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
-- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
-- #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
-- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
-- #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
-- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
 ## Dynamic Programming (11)
 
@@ -438,6 +440,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
 - #3499 [Maximize Active Section with Trade I](Medium/3499-maximize-active-section-with-trade-i/) - Medium
 
+## Monotonic Stack (3)
+
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
+
 ## Number Theory (3)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
@@ -484,11 +492,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #70 [Climbing Stairs](Easy/0070-climbing-stairs/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
-
-## Monotonic Stack (2)
-
-- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
-- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 
 ## Nim Game (2)
 
