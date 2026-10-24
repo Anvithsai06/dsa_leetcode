@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 81 | 81 |
-| Medium | 56 | 56 |
+| Medium | 57 | 57 |
 | Hard | 4 | 4 |
-| **Total** | **141** | **141** |
+| **Total** | **142** | **142** |
 
-141 problem(s), 141 solution file(s) in this repository.
+142 problem(s), 142 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 127 |
+| Python3 | 128 |
 | Python | 14 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -113,7 +113,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (56)</summary>
+<details><summary><b>Medium</b> (57)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -159,6 +159,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Python | [folder](Medium/1344-angle-between-hands-of-a-clock/) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Python3 | [folder](Medium/1358-number-of-substrings-containing-all-three-characters/) |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Python3 | [folder](Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Python3 | [folder](Medium/1441-build-an-array-with-stack-operations/) |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Python3 | [folder](Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Python3 | [folder](Medium/1846-maximum-element-after-decreasing-and-rearranging/) |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | Python3 | [folder](Medium/2029-stone-game-ix/) |
