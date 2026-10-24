@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (68)
+## Array (69)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -35,6 +35,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #486 [Predict the Winner](Medium/0486-predict-the-winner/) - Medium
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
 - #628 [Maximum Product of Three Numbers](Easy/0628-maximum-product-of-three-numbers/) - Easy
 - #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
@@ -176,7 +177,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Hash Table (25)
+## Hash Table (26)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
@@ -190,6 +191,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #242 [Valid Anagram](Easy/0242-valid-anagram/) - Easy
 - #268 [Missing Number](Easy/0268-missing-number/) - Easy
 - #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
 - #1189 [Maximum Number of Balloons](Easy/1189-maximum-number-of-balloons/) - Easy
 - #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
 - #1935 [Maximum Number of Words You Can Type](Easy/1935-maximum-number-of-words-you-can-type/) - Easy
@@ -248,12 +250,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
-## Stack (15)
+## Stack (16)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
 - #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
 - #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
 - #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
@@ -433,6 +436,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #867 [Transpose Matrix](Easy/0867-transpose-matrix/) - Easy
 
+## Monotonic Stack (4)
+
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
+
 ## Zero-Sum Game (4)
 
 - #486 [Predict the Winner](Medium/0486-predict-the-winner/) - Medium
@@ -445,12 +455,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1291 [Sequential Digits](Medium/1291-sequential-digits/) - Medium
 - #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
 - #3499 [Maximize Active Section with Trade I](Medium/3499-maximize-active-section-with-trade-i/) - Medium
-
-## Monotonic Stack (3)
-
-- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
-- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
-- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 
 ## Number Theory (3)
 
