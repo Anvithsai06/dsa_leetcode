@@ -123,7 +123,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3756 [Concatenate Non-Zero Digits and Multiply by Sum II](Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## String (45)
+## String (46)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -149,6 +149,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #415 [Add Strings](Easy/0415-add-strings/) - Easy
 - #504 [Base 7](Easy/0504-base-7/) - Easy
 - #796 [Rotate String](Easy/0796-rotate-string/) - Easy
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
 - #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 - #1189 [Maximum Number of Balloons](Easy/1189-maximum-number-of-balloons/) - Easy
@@ -301,7 +302,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 - #779 [K-th Symbol in Grammar](Medium/0779-k-th-symbol-in-grammar/) - Medium
 
-## Stack (10)
+## Stack (11)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
@@ -309,6 +310,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
 - #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 - #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
@@ -326,6 +328,17 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 
+## Greedy (8)
+
+- #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
+- #179 [Largest Number](Medium/0179-largest-number/) - Medium
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
+- #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
+- #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
+- #3014 [Minimum Number of Pushes to Type Word I](Easy/3014-minimum-number-of-pushes-to-type-word-i/) - Easy
+- #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
+
 ## Counting (7)
 
 - #169 [Majority Element](Easy/0169-majority-element/) - Easy
@@ -335,16 +348,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
 - #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
-
-## Greedy (7)
-
-- #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
-- #179 [Largest Number](Medium/0179-largest-number/) - Medium
-- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
-- #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
-- #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
-- #3014 [Minimum Number of Pushes to Type Word I](Easy/3014-minimum-number-of-pushes-to-type-word-i/) - Easy
-- #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
 
 ## Sliding Window (7)
 
@@ -420,6 +423,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
 
+## Bracket Sequences (3)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
+
 ## Enumeration (3)
 
 - #1291 [Sequential Digits](Medium/1291-sequential-digits/) - Medium
@@ -437,11 +446,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
 - #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
 - #1438 [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) - Medium
-
-## Bracket Sequences (2)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
 ## Brainteaser (2)
 
