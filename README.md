@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 83 | 83 |
-| Medium | 57 | 57 |
+| Medium | 58 | 58 |
 | Hard | 4 | 4 |
-| **Total** | **144** | **144** |
+| **Total** | **145** | **145** |
 
-144 problem(s), 144 solution file(s) in this repository.
+145 problem(s), 145 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 130 |
+| Python3 | 131 |
 | Python | 14 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -115,7 +115,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (57)</summary>
+<details><summary><b>Medium</b> (58)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -156,6 +156,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | Python | [folder](Medium/0779-k-th-symbol-in-grammar/) |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Python3 | [folder](Medium/0877-stone-game/) |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Python3 | [folder](Medium/0921-minimum-add-to-make-parentheses-valid/) |
+| 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Python3 | [folder](Medium/0946-validate-stack-sequences/) |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Python3 | [folder](Medium/1081-smallest-subsequence-of-distinct-characters/) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Python3 | [folder](Medium/1291-sequential-digits/) |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Python | [folder](Medium/1344-angle-between-hands-of-a-clock/) |
