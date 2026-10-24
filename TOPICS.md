@@ -125,7 +125,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3756 [Concatenate Non-Zero Digits and Multiply by Sum II](Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## String (46)
+## String (47)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -152,6 +152,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #504 [Base 7](Easy/0504-base-7/) - Easy
 - #796 [Rotate String](Easy/0796-rotate-string/) - Easy
 - #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #1021 [Remove Outermost Parentheses](Easy/1021-remove-outermost-parentheses/) - Easy
 - #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 - #1189 [Maximum Number of Balloons](Easy/1189-maximum-number-of-balloons/) - Easy
@@ -246,7 +247,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
-## Stack (13)
+## Stack (14)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
@@ -255,6 +256,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
 - #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #1021 [Remove Outermost Parentheses](Easy/1021-remove-outermost-parentheses/) - Easy
 - #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
@@ -407,6 +409,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
 
+## Bracket Sequences (4)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #1021 [Remove Outermost Parentheses](Easy/1021-remove-outermost-parentheses/) - Easy
+- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
+
 ## Heap (Priority Queue) (4)
 
 - #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
@@ -427,12 +436,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #877 [Stone Game](Medium/0877-stone-game/) - Medium
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
-
-## Bracket Sequences (3)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
-- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
 ## Enumeration (3)
 
