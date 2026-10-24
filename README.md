@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 81 | 81 |
-| Medium | 55 | 55 |
+| Medium | 56 | 56 |
 | Hard | 4 | 4 |
-| **Total** | **140** | **140** |
+| **Total** | **141** | **141** |
 
-140 problem(s), 140 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-23).
+141 problem(s), 141 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 126 |
+| Python3 | 127 |
 | Python | 14 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -113,7 +113,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (55)</summary>
+<details><summary><b>Medium</b> (56)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -153,6 +153,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Python3 | [folder](Medium/0739-daily-temperatures/) |
 | 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | Python | [folder](Medium/0779-k-th-symbol-in-grammar/) |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Python3 | [folder](Medium/0877-stone-game/) |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Python3 | [folder](Medium/0921-minimum-add-to-make-parentheses-valid/) |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Python3 | [folder](Medium/1081-smallest-subsequence-of-distinct-characters/) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Python3 | [folder](Medium/1291-sequential-digits/) |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | Python | [folder](Medium/1344-angle-between-hands-of-a-clock/) |
