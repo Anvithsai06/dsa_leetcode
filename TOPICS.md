@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (69)
+## Array (70)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -19,6 +19,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #57 [Insert Interval](Medium/0057-insert-interval/) - Medium
 - #66 [Plus One](Easy/0066-plus-one/) - Easy
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
+- #88 [Merge Sorted Array](Easy/0088-merge-sorted-array/) - Easy
 - #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
 - #136 [Single Number](Easy/0136-single-number/) - Easy
 - #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
@@ -206,10 +207,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
-## Sorting (21)
+## Sorting (22)
 
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
+- #88 [Merge Sorted Array](Easy/0088-merge-sorted-array/) - Easy
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #169 [Majority Element](Easy/0169-majority-element/) - Easy
 - #179 [Largest Number](Medium/0179-largest-number/) - Medium
@@ -230,13 +232,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3536 [Maximum Product of Two Digits](Easy/3536-maximum-product-of-two-digits/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Two Pointers (17)
+## Two Pointers (18)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
 - #27 [Remove Element](Easy/0027-remove-element/) - Easy
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
+- #88 [Merge Sorted Array](Easy/0088-merge-sorted-array/) - Easy
 - #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
 - #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
 - #151 [Reverse Words in a String](Medium/0151-reverse-words-in-a-string/) - Medium
