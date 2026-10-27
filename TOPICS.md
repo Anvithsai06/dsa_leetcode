@@ -75,7 +75,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## Math (50)
+## Math (51)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -117,6 +117,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
 - #2235 [Add Two Integers](Easy/2235-add-two-integers/) - Easy
 - #2442 [Count Number of Distinct Integers After Reverse Operations](Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) - Medium
+- #2520 [Count the Digits That Divide a Number](Easy/2520-count-the-digits-that-divide-a-number/) - Easy
 - #2729 [Check if The Number is Fascinating](Easy/2729-check-if-the-number-is-fascinating/) - Easy
 - #3014 [Minimum Number of Pushes to Type Word I](Easy/3014-minimum-number-of-pushes-to-type-word-i/) - Easy
 - #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
