@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 85 | 85 |
+| Easy | 86 | 86 |
 | Medium | 58 | 58 |
 | Hard | 4 | 4 |
-| **Total** | **147** | **147** |
+| **Total** | **148** | **148** |
 
-147 problem(s), 147 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-26).
+148 problem(s), 148 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-27).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 133 |
+| Python3 | 134 |
 | Python | 14 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (85)</summary>
+<details><summary><b>Easy</b> (86)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -97,6 +97,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Python | [folder](Easy/2235-add-two-integers/) |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Python3 | [folder](Easy/2278-percentage-of-letter-in-string/) |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | Python3 | [folder](Easy/2315-count-asterisks/) |
+| 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | Python3 | [folder](Easy/2520-count-the-digits-that-divide-a-number/) |
 | 2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | Python3 | [folder](Easy/2729-check-if-the-number-is-fascinating/) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Python3 | [folder](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
 | 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Python3 | [folder](Easy/3014-minimum-number-of-pushes-to-type-word-i/) |
