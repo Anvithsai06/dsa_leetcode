@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 86 | 86 |
+| Easy | 87 | 87 |
 | Medium | 58 | 58 |
 | Hard | 4 | 4 |
-| **Total** | **148** | **148** |
+| **Total** | **149** | **149** |
 
-148 problem(s), 148 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-27).
+149 problem(s), 149 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-31).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 134 |
+| Python3 | 135 |
 | Python | 14 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (86)</summary>
+<details><summary><b>Easy</b> (87)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -42,6 +42,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Python | [folder](Easy/0070-climbing-stairs/) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Python3 | [folder](Easy/0083-remove-duplicates-from-sorted-list/) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Python3 | [folder](Easy/0088-merge-sorted-array/) |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Python3 | [folder](Easy/0094-binary-tree-inorder-traversal/) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Python3 | [folder](Easy/0121-best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Python3 | [folder](Easy/0125-valid-palindrome/) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Python3 | [folder](Easy/0136-single-number/) |
