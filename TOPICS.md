@@ -233,11 +233,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3536 [Maximum Product of Two Digits](Easy/3536-maximum-product-of-two-digits/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Stack (18)
+## Stack (19)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 - #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
 - #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
 - #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
@@ -421,12 +422,26 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
 
+## Binary Tree (4)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+
 ## Bracket Sequences (4)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
 - #1021 [Remove Outermost Parentheses](Easy/1021-remove-outermost-parentheses/) - Easy
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
+
+## Depth-First Search (4)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 
 ## Heap (Priority Queue) (4)
 
@@ -448,6 +463,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 - #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
+
+## Tree (4)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 
 ## Zero-Sum Game (4)
 
@@ -474,11 +496,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
 - #1438 [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) - Medium
 
-## Binary Tree (2)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-
 ## Brainteaser (2)
 
 - #292 [Nim Game](Easy/0292-nim-game/) - Easy
@@ -493,11 +510,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
 - #3517 [Smallest Palindromic Rearrangement I](Medium/3517-smallest-palindromic-rearrangement-i/) - Medium
-
-## Depth-First Search (2)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 
 ## Design (2)
 
@@ -534,11 +546,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
 - #796 [Rotate String](Easy/0796-rotate-string/) - Easy
 
-## Tree (2)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-
 ## Backtracking (1)
 
 - #89 [Gray Code](Medium/0089-gray-code/) - Medium
@@ -550,6 +557,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Boyer–Moore String-Search Algorithm (1)
 
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
+
+## Breadth-First Search (1)
+
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
 
 ## Bucket Sort (1)
 
