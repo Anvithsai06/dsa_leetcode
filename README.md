@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 87 | 87 |
+| Easy | 88 | 88 |
 | Medium | 58 | 58 |
 | Hard | 4 | 4 |
-| **Total** | **149** | **149** |
+| **Total** | **150** | **150** |
 
-149 problem(s), 149 solution file(s) in this repository.
+150 problem(s), 150 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-31).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 135 |
+| Python3 | 136 |
 | Python | 14 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (87)</summary>
+<details><summary><b>Easy</b> (88)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -47,6 +47,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Python3 | [folder](Easy/0125-valid-palindrome/) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Python3 | [folder](Easy/0136-single-number/) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Python3 | [folder](Easy/0141-linked-list-cycle/) |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Python3 | [folder](Easy/0144-binary-tree-preorder-traversal/) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Python3 | [folder](Easy/0169-majority-element/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Python3 | [folder](Easy/0217-contains-duplicate/) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Python | [folder](Easy/0231-power-of-two/) |
