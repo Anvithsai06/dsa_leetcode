@@ -233,6 +233,27 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3536 [Maximum Product of Two Digits](Easy/3536-maximum-product-of-two-digits/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
+## Stack (18)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
+- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
+- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
+- #1021 [Remove Outermost Parentheses](Easy/1021-remove-outermost-parentheses/) - Easy
+- #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
+- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
+- #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
+- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
+
 ## Two Pointers (18)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -253,26 +274,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #905 [Sort Array By Parity](Easy/0905-sort-array-by-parity/) - Easy
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
-
-## Stack (17)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
-- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
-- #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
-- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
-- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
-- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
-- #1021 [Remove Outermost Parentheses](Easy/1021-remove-outermost-parentheses/) - Easy
-- #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
-- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
-- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
-- #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
-- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
 ## Binary Search (12)
 
@@ -473,6 +474,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
 - #1438 [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) - Medium
 
+## Binary Tree (2)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+
 ## Brainteaser (2)
 
 - #292 [Nim Game](Easy/0292-nim-game/) - Easy
@@ -487,6 +493,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
 - #3517 [Smallest Palindromic Rearrangement I](Medium/3517-smallest-palindromic-rearrangement-i/) - Medium
+
+## Depth-First Search (2)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 
 ## Design (2)
 
@@ -523,13 +534,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
 - #796 [Rotate String](Easy/0796-rotate-string/) - Easy
 
+## Tree (2)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+
 ## Backtracking (1)
 
 - #89 [Gray Code](Medium/0089-gray-code/) - Medium
-
-## Binary Tree (1)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 
 ## Boyer–Moore Majority Vote Algorithm (1)
 
@@ -542,10 +554,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Bucket Sort (1)
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
-
-## Depth-First Search (1)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 
 ## Euclidean Algorithm (1)
 
@@ -598,10 +606,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Segment Tree (1)
 
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
-
-## Tree (1)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 
 ## Trie (1)
 
