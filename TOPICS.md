@@ -254,9 +254,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
-## Stack (16)
+## Stack (17)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
 - #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
 - #232 [Implement Queue using Stacks](Easy/0232-implement-queue-using-stacks/) - Easy
@@ -526,6 +527,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #89 [Gray Code](Medium/0089-gray-code/) - Medium
 
+## Binary Tree (1)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+
 ## Boyer–Moore Majority Vote Algorithm (1)
 
 - #169 [Majority Element](Easy/0169-majority-element/) - Easy
@@ -537,6 +542,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Bucket Sort (1)
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
+
+## Depth-First Search (1)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 
 ## Euclidean Algorithm (1)
 
@@ -589,6 +598,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Segment Tree (1)
 
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+
+## Tree (1)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 
 ## Trie (1)
 
