@@ -16,3 +16,15 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 - #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
+
+## Array (1)
+
+- #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
+
+## Prefix Sum (1)
+
+- #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
+
+## Sliding Window (1)
+
+- #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
