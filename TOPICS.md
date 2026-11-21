@@ -2,8 +2,9 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (2)
+## Array (3)
 
+- #1046 [Last Stone Weight](Easy/1046-last-stone-weight/) - Easy
 - #2073 [Time Needed to Buy Tickets](Easy/2073-time-needed-to-buy-tickets/) - Easy
 - #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
 
@@ -21,6 +22,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 - #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
+
+## Heap (Priority Queue) (1)
+
+- #1046 [Last Stone Weight](Easy/1046-last-stone-weight/) - Easy
 
 ## Linked List (1)
 
